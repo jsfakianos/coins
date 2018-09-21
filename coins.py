@@ -1,5 +1,5 @@
 change_due = 31.23
-available_denominations = [.01,.05,.10,.25,1.00,5.00,10.00,20.00,100.00]
+available_denominations = [.00,.01,.05,.10,.25,1.00,5.00,10.00,20.00,100.00]
 
 def coins(change_due, i, memo):
     
